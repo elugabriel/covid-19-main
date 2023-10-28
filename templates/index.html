@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<form action="/predict" method="POST">
+    <div class="form-group">
+      <h3>Enter Total Confirmed Case</h3>
+      
+      <input type="text"  placeholder=" " name = "total_case" size="30" style="font-size:16pt;">
+
+    </div>
+
+
+    <button type="submit" class="btn btn-primary" style="font-size : 20px; height:40px;width:80px">Predict</button>
+</form>
+<br>
+      <h1>The Predicted number of death is: {{ prediction }}
+
+{% endblock content %}

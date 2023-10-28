@@ -1,0 +1,398 @@
+@media (min-width: 320px) and (max-width: 767px) {
+    .slide-caption-inner.slider-text h1 {
+        font-size: 23px;
+    }
+    section.new-home-pages {
+        padding: 0 24px;
+    }
+    /*
+.single_items.single_items-2:before {
+    position: absolute;
+    top: -10%;
+    left: 51%;
+    margin-left: -110px;
+    width: 60%;
+    height: 9%;
+    content: "MOST POPULER";
+    -webkit-animation: color-change 2s infinite 0s linear;
+    -moz-animation: color-change 2s infinite 0s linear;
+    -o-animation: color-change 2s infinite 0s linear;
+    -ms-animation: color-change 2s infinite 0s linear;
+    animation: color-change 2s infinite 0s linear;
+    animation-name: color-change;
+    font-size: 14px;
+    transition: all .3s ease-in-out;
+    font-weight: 900;
+    text-transform: uppercase;
+    background: #4AD7F8;
+    line-height: 42px;
+    border-radius: 3px;
+    border: 1px dotted #4AD7F8;
+    letter-spacing: 2px;
+    color: #FF1F01;
+}
+*/
+    a.slider-btn.slider-btn-2 {
+        margin-left: 0px;
+        margin-top: 25px;
+    }
+    .section-title h2 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .section-title p {
+        font-size: 22px;
+        line-height: 35px;
+    }
+    .work_area {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    .app-pages-area {
+        padding: 0 20px;
+    }
+    .page-title h1 {
+        font-size: 27px;
+        margin-bottom: 45px;
+        line-height: 38px;
+    }
+    .section-title {
+        margin-bottom: 45px;
+    }
+    h2.page-name {
+        margin-bottom: 50px;
+    }
+    .softwear-pages-area {
+        padding: 0 20px;
+    }
+    .softwear-pages-area {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    .other-pages-area {
+        padding: 0 20px;
+    }
+    .other-pages-area {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    .row.mt-50 {
+        margin-top: 0px;
+    }
+    .copyright.text-center p {
+        font-size: 12px;
+    }
+    .cta-inner h2 {
+        font-size: 24px;
+    }
+    .mouse-1 {
+        top: 433px;
+        left: 0;
+    }
+    .mouse-2 {
+        top: 828px;
+        left: 0;
+        z-index: 2;
+    }
+    .mouse-3 {
+        top: 732px;
+        left: 0;
+        z-index: 1;
+    }
+    .mouse-4 {
+        top: 920px;
+        left: 0;
+        z-index: 3;
+    }
+    .mouse-5 {
+        top: 538px;
+        left: 0;
+    }
+    .mouse-6 {
+        top: 637px;
+        right: 0;
+    }
+    .slider_area {
+        padding-bottom: 100px;
+        padding-top: 128px;
+    }
+    h3.soon {
+        top: 45%;
+        left: 28%;
+    }
+}
+
+/* Extra Small Devices, Phones */
+
+@media (min-width: 480px) and (max-width: 767px) {
+    .slide-caption-inner.slider-text h1 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    a.slider-btn.slider-btn-2 {
+        margin-left: 25px;
+        margin-top: 0px;
+    }
+    .section-title h2 {
+        font-size: 34px;
+        line-height: 48px;
+    }
+    .work_area {
+        padding-top: 60px;
+        padding-bottom: 10px;
+    }
+    .section-title {
+        margin-bottom: 50px;
+    }
+    .app-pages-area {
+        padding: 0 50px;
+    }
+    .page-title h1 {
+        margin-bottom: 60px;
+        font-size: 27px;
+    }
+    h2.page-name {
+        margin-bottom: 50px;
+    }
+    .single_items img {
+        width: 100%;
+    }
+    .softwear-pages-area {
+        padding: 0 50px;
+    }
+    .softwear-pages-area {
+        padding-top: 60px;
+        padding-bottom: 10px;
+    }
+    .other-pages-area {
+        padding: 0 50px;
+    }
+    .other-pages-area {
+        padding-top: 60px;
+        padding-bottom: 10px;
+    }
+    .row.mt-50 {
+        margin-top: 0px;
+    }
+    .cta-inner h2 {
+        font-size: 30px;
+    }
+    #call-to-action {
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    .copyright.text-center p {
+        font-size: 16px;
+    }
+    .mouse-1 {
+        top: 380px;
+        left: -116px;
+    }
+    .mouse-3 {
+        top: 380px;
+        left: 292px;
+    }
+    .mouse-2 {
+        top: 665px;
+        left: 292px;
+    }
+    .mouse-4 {
+        top: 517px;
+        left: -113px;
+    }
+    .mouse-5 {
+        top: 663px;
+        left: -114px;
+        z-index: 3;
+    }
+    .mouse-6 {
+        top: 517px;
+        right: -105px;
+        z-index: 1;
+    }
+    .slider_area {
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    h3.soon {
+        top: 45%;
+        left: 36%;
+    }
+}
+
+/* Small Devices, Tablets */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    section.new-home-pages {
+        padding: 0 37px;
+    }
+    .single_items.single_items-2:before {
+        position: absolute;
+        top: -11%;
+        left: 62%;
+        margin-left: -110px;
+        width: 77%;
+        height: 9%;
+        content: "MOST POPULER";
+        -webkit-animation: color-change 2s infinite 0s linear;
+        -moz-animation: color-change 2s infinite 0s linear;
+        -o-animation: color-change 2s infinite 0s linear;
+        -ms-animation: color-change 2s infinite 0s linear;
+        animation: color-change 2s infinite 0s linear;
+        animation-name: color-change;
+        font-size: 14px;
+        transition: all .3s ease-in-out;
+        font-weight: 900;
+        text-transform: uppercase;
+        background: #4AD7F8;
+        line-height: 27px;
+        border-radius: 3px;
+        border: 1px dotted #4AD7F8;
+        letter-spacing: 2px;
+        color: #FF1F01;
+    }
+    .page-title h1 {
+        font-size: 22px;
+        margin-bottom: 45px;
+    }
+    .work_area {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .app-pages-area {
+        padding: 0 30px;
+    }
+    h2.page-name {
+        font-size: 14px;
+    }
+    .other-pages-area .single_items img {
+        height: 150px;
+    }
+    .softwear-pages-area {
+        padding: 0 30px;
+    }
+    .softwear-pages-area {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .other-pages-area {
+        padding: 0 30px;
+    }
+    .other-pages-area {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .text>h5 {
+        font-weight: 400;
+        font-size: 15px;
+        font-family: 'Poppins', sans-serif;
+    }
+    .on-hover-content ul a.view-demo {
+        font-size: 12px;
+    }
+    .on-hover-content ul {
+        margin: 24% 0;
+    }
+    .slide-caption-inner.slider-text h1 {
+        font-size: 34px;
+        line-height: 48px;
+    }
+    .mouse-1 {
+        top: 380px;
+    }
+    .mouse-2 {
+        top: 665px;
+    }
+    .mouse-3 {
+        top: 398px;
+        left: 288px;
+    }
+    .mouse-4 {
+        top: 520px;
+    }
+    .mouse-5 {
+        top: 670px;
+    }
+    .mouse-6 {
+        top: 500px;
+        right: -150px;
+    }
+    h3.soon {
+        top: 42%;
+        left: 12%;
+        font-size: 20px;
+        ;
+    }
+}
+
+/* Medium Devices, Desktops */
+
+@media (min-width: 992px) and (max-width: 1169px) {
+    .single_items.single_items-2:before {
+        position: absolute;
+        top: -16%;
+        left: 50%;
+        margin-left: -110px;
+        width: 80%;
+        height: 12%;
+        content: "MOST POPULER";
+        -webkit-animation: color-change 2s infinite 0s linear;
+        -moz-animation: color-change 2s infinite 0s linear;
+        -o-animation: color-change 2s infinite 0s linear;
+        -ms-animation: color-change 2s infinite 0s linear;
+        animation: color-change 2s infinite 0s linear;
+        animation-name: color-change;
+        font-size: 17px;
+        transition: all .3s ease-in-out;
+        font-weight: 900;
+        text-transform: uppercase;
+        background: #4AD7F8;
+        line-height: 44px;
+        border-radius: 3px;
+        border: 1px dotted #4AD7F8;
+        letter-spacing: 2px;
+        color: #FF1F01;
+    }
+    section.new-home-pages {
+        padding: 0 150px;
+    }
+    .app-pages-area {
+        padding: 0 50px;
+    }
+    .softwear-pages-area {
+        padding: 0 50px;
+    }
+    .softwear-pages-area {
+        padding-top: 117px;
+        padding-bottom: 95px;
+    }
+    .other-pages-area {
+        padding: 0 50px;
+    }
+    .other-pages-area {
+        padding-top: 120px;
+        padding-bottom: 100px;
+    }
+    .on-hover-content ul {
+        margin: 27% 0;
+    }
+    .on-hover-content ul {
+        margin: 27% 0;
+    }
+    .on-hover-content ul a.view-demo {
+        font-size: 16px;
+    }
+    h2.page-name {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .mouse-3 {
+        left: 288px;
+    }
+    .mouse-6 {
+        right: -150px;
+    }
+    h3.soon {
+        left: 16%;
+    }
+}
